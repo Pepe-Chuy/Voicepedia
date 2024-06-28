@@ -10,7 +10,7 @@ from fastapi.templating import Jinja2Templates
 import tempfile
 
 
-api_key = 'apikeyhehe'
+api_key = 'secretapikeyhehe'
 
 
 # #////////////////////FASTAPI
