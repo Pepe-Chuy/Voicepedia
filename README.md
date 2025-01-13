@@ -1,5 +1,3 @@
----
-
 # Voice-Enabled ChatGPT  
 
 This project extends ChatGPT's functionality by providing voice access, enabling use by a wider range of individuals, such as the elderly, visually impaired, and others who benefit from voice interaction.  
