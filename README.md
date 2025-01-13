@@ -1,5 +1,3 @@
-Here's a well-structured and polished README for your project:  
-
 ---
 
 # Voice-Enabled ChatGPT  
